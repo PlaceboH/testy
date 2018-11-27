@@ -1,1 +1,1 @@
-# Zadanie 1 zlisty 8 PWI
+# Zadanie 1 z listy 8 PWI
